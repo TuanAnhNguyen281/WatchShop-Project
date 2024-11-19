@@ -1,0 +1,547 @@
+{
+    "brands": [
+        {
+            "id": 1,
+            "origin": 1,
+            "name": "Casio"
+        },
+        {
+            "id": 2,
+            "origin": 1,
+            "name": "G-Shock"
+        },
+        {
+            "id": 3,
+            "origin": 1,
+            "name": "Seiko"
+        },
+        {
+            "id": 4,
+            "origin": 2,
+            "name": "Tissot"
+        },
+        {
+            "id": 5,
+            "origin": 3,
+            "name": "Bentley"
+        }
+    ],
+    "Origins": [
+        {
+            "id": 1,
+            "name": "Nhật bản"
+        },
+        {
+            "id": 2,
+            "name": "Thụy sĩ"
+        },
+        {
+            "id": 3,
+            "name": "Châu âu"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Casio MTP-1374L-1AVDF",
+            "price": 2270000,
+            "description": "Đồng hồ nam Casio MTP-1374L-1AVDF được làm từ chất liệu cao cấp, với dây da thật màu đen được thiết kế vân nổi bật. Mặt đồng hồ có màu đen trang nhã, kết hợp với viền đen bao quanh và chữ số vạch lớn rõ nét. Ngoài ra, đồng hồ còn tích hợp chức năng lịch ngày, tiện lợi cho người sử dụng.",
+            "images": [
+                {
+                    "id": 1,
+                    "name": "casio/CasioMTP1374L/CasioMTP1374L.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "casio/CasioMTP1374L/casio-mtp-1374l-2.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "casio/CasioMTP1374L/casio-mtp-1374l-3.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "casio/CasioMTP1374L/casio-mtp-1374l-4.jpg"
+                }
+            ],
+            "brand": 1,
+            "status": true
+        },
+        {
+            "id": 2,
+            "name": "Casio MTP-V300L-1AUDF",
+            "price": 1752000,
+            "description": " Đồng hồ nam Casio MTP-1374L-1AVDF được làm từ chất liệu cao cấp, với dây da thật màu đen được thiết kế vân nổi bật. Mặt đồng hồ có màu đen trang nhã, kết hợp với viền đen bao quanh và chữ số vạch lớn rõ nét. Ngoài ra, đồng hồ còn tích hợp chức năng lịch ngày, tiện lợi cho người sử dụng.",
+            "images": [
+                {
+                    "id": 1,
+                    "name": "casio/casio-mtp-v300l/casio-mtp-v300l-1.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "casio/casio-mtp-v300l/casio-mtp-v300l-2.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "casio/casio-mtp-v300l/casio-mtp-v300l-3.png"
+                },
+                {
+                    "id": 4,
+                    "name": "casio/casio-mtp-v300l/casio-mtp-v300l-4.jpeg"
+                }
+            ],
+            "brand": 1,
+            "status": true
+        },
+        {
+            "id": 3,
+            "name": "Casio AE-1200WHD-1AVDF",
+            "price": 1506000,
+            "description": " Đồng hồ nam Casio MTP-1374L-1AVDF được làm từ chất liệu cao cấp, với dây da thật màu đen được thiết kế vân nổi bật. Mặt đồng hồ có màu đen trang nhã, kết hợp với viền đen bao quanh và chữ số vạch lớn rõ nét. Ngoài ra, đồng hồ còn tích hợp chức năng lịch ngày, tiện lợi cho người sử dụng.",
+            "images": [
+                {
+                    "id": 1,
+                    "name": "casio/AE-1200WHD-1AVDF/AE-1200WHD-1AVDF-1.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "casio/AE-1200WHD-1AVDF/AE-1200WHD-1AVDF-2-3.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "casio/AE-1200WHD-1AVDF/AE-1200WHD-1AVDF-2.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "casio/AE-1200WHD-1AVDF/AE-1200WHD-1AVDF-4.jpg"
+                }
+            ],
+            "brand": 1,
+            "status": true
+        },
+        {
+            "id": 4,
+            "name": "Casio MTP-1374D-1AVDF",
+            "price": 2394000,
+            "description": " Đồng hồ nam Casio MTP-1374L-1AVDF được làm từ chất liệu cao cấp, với dây da thật màu đen được thiết kế vân nổi bật. Mặt đồng hồ có màu đen trang nhã, kết hợp với viền đen bao quanh và chữ số vạch lớn rõ nét. Ngoài ra, đồng hồ còn tích hợp chức năng lịch ngày, tiện lợi cho người sử dụng.",
+            "images": [
+                {
+                    "id": 1,
+                    "name": "casio/casio-mtp-1374d/casio-mtp-1374d-1.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "casio/casio-mtp-1374d/casio-mtp-1374d-2.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "casio/casio-mtp-1374d/casio-mtp-1374d-3.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "casio/casio-mtp-1374d/casio-mtp-1374d-4.jpg"
+                }
+            ],
+            "brand": 1,
+            "status": true
+        },
+        {
+            "id": 5,
+            "name": "Casio MTP-1375L-1AVDF",
+            "price": 2270000,
+            "description": " Đồng hồ nam Casio MTP-1374L-1AVDF được làm từ chất liệu cao cấp, với dây da thật màu đen được thiết kế vân nổi bật. Mặt đồng hồ có màu đen trang nhã, kết hợp với viền đen bao quanh và chữ số vạch lớn rõ nét. Ngoài ra, đồng hồ còn tích hợp chức năng lịch ngày, tiện lợi cho người sử dụng.",
+            "images": [
+                {
+                    "id": 1,
+                    "name": "casio/casio-mtp-1375/casio-mtp-1375l-1.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "casio/casio-mtp-1375/casio-mtp-1375l-2.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "casio/casio-mtp-1375/casio-mtp-1375l-4.jpeg"
+                },
+                {
+                    "id": 4,
+                    "name": "casio/casio-mtp-1375/casio-mtp-1375l-4.jpg"
+                }
+            ],
+            "brand": 1,
+            "status": true
+        },
+        {
+            "id": 6,
+            "name": "Casio MTP-VT01L-1BUDF",
+            "price": 1182000,
+            "description": " Đồng hồ nam Casio MTP-1374L-1AVDF được làm từ chất liệu cao cấp, với dây da thật màu đen được thiết kế vân nổi bật. Mặt đồng hồ có màu đen trang nhã, kết hợp với viền đen bao quanh và chữ số vạch lớn rõ nét. Ngoài ra, đồng hồ còn tích hợp chức năng lịch ngày, tiện lợi cho người sử dụng.",
+            "images": [
+                {
+                    "id": 1,
+                    "name": "casio/casio-mtp-vt01l/Casio-MTP-VT01L-1BUDF-1.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "casio/casio-mtp-vt01l/casio-mtp-vt01l-1budf-2.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "casio/casio-mtp-vt01l/casio-mtp-vt01l-1budf-3.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "casio/casio-mtp-vt01l/asio-mtp-vt01l-1budf-4.jpg"
+                }
+            ],
+            "brand": 1,
+            "status": true
+        },
+        {
+            "id": 7,
+            "name": "Casio G-Shock GA-2000S-1ADR",
+            "price": 4484000,
+            "description": " Đồng hồ nam Casio MTP-1374L-1AVDF được làm từ chất liệu cao cấp, với dây da thật màu đen được thiết kế vân nổi bật. Mặt đồng hồ có màu đen trang nhã, kết hợp với viền đen bao quanh và chữ số vạch lớn rõ nét. Ngoài ra, đồng hồ còn tích hợp chức năng lịch ngày, tiện lợi cho người sử dụng.",
+            "images": [
+                {
+                    "id": 1,
+                    "name": "gshock/G-Shock GA-2000S/casio-g-shock-GA-2000S-1ADR.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "gshock/G-Shock GA-2000S/6xWtIyZX-dong-ho-casio-ga-2000s-1adr-nam-pin-quartz-day-cao-su-nhua-3.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "gshock/G-Shock GA-2000S/bSacj47n-dong-ho-casio-ga-2000s-1adr-nam-pin-quartz-day-cao-su-nhua-6.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "gshock/G-Shock GA-2000S/dong-ho-casio-ga-2000s-1adr-nam-pin-quartz-day-cao-su-nhua-3.jpg"
+                }
+            ],
+            "brand": 2,
+            "status": true
+        },
+        {
+            "id": 8,
+            "name": "Casio G-Shock GA-110-1ADR",
+            "price": 4843000,
+            "description": " Đồng hồ nam Casio MTP-1374L-1AVDF được làm từ chất liệu cao cấp, với dây da thật màu đen được thiết kế vân nổi bật. Mặt đồng hồ có màu đen trang nhã, kết hợp với viền đen bao quanh và chữ số vạch lớn rõ nét. Ngoài ra, đồng hồ còn tích hợp chức năng lịch ngày, tiện lợi cho người sử dụng.",
+            "images": [
+                {
+                    "id": 1,
+                    "name": "gshock/G-Shock GA-110/wDPw7yNx-casio-g-shock-GA-110-1ADR.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "gshock/G-Shock GA-110/dong-ho-casio-ga-110-1adr-nam-pin-quartz-day-cao-su-nhua-1.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "gshock/G-Shock GA-110/dong-ho-casio-ga-110-1adr-nam-pin-quartz-day-cao-su-nhua-6.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "gshock/G-Shock GA-110/dong-ho-casio-ga-110-1adr-nam-pin-quartz-day-cao-su-nhua-7.jpg"
+                }
+            ],
+            "brand": 2,
+            "status": true
+        },
+        {
+            "id": 9,
+            "name": "Casio G-Shock GA-100-1A2DR",
+            "price": 4147000,
+            "description": " Đồng hồ nam Casio MTP-1374L-1AVDF được làm từ chất liệu cao cấp, với dây da thật màu đen được thiết kế vân nổi bật. Mặt đồng hồ có màu đen trang nhã, kết hợp với viền đen bao quanh và chữ số vạch lớn rõ nét. Ngoài ra, đồng hồ còn tích hợp chức năng lịch ngày, tiện lợi cho người sử dụng.",
+            "images": [
+                {
+                    "id": 1,
+                    "name": "gshock/G-Shock GA-100/casio-g-shock-GA-100-1A2DR.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "gshock/G-Shock GA-100/dong-ho-casio-g-shock-GA-100-1A2DR-hinh-2-1.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "gshock/G-Shock GA-100/dong-ho-casio-ga-100-1a2dr-nam-quartz-day-cao-su-nhua-05-2023-3.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "gshock/G-Shock GA-100/dong-ho-casio-ga-100-1a2dr-nam-quartz-day-cao-su-nhua-05-2023-4.jpg"
+                }
+            ],
+            "brand": 2,
+            "status": true
+        },
+        {
+            "id": 10,
+            "name": "Casio G-Shock GA-2100-1ADR",
+            "price": 3814000,
+            "description": " Đồng hồ nam Casio MTP-1374L-1AVDF được làm từ chất liệu cao cấp, với dây da thật màu đen được thiết kế vân nổi bật. Mặt đồng hồ có màu đen trang nhã, kết hợp với viền đen bao quanh và chữ số vạch lớn rõ nét. Ngoài ra, đồng hồ còn tích hợp chức năng lịch ngày, tiện lợi cho người sử dụng.",
+            "images": [
+                {
+                    "id": 1,
+                    "name": "gshock/G-Shock GA-2100/casio-g-shock-GA-2100-1ADR.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "gshock/G-Shock GA-2100/dong-ho-casio-ga-2100-1adr-nam-pin-quartz-day-cao-su-nhua-1.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "gshock/G-Shock GA-2100/dong-ho-casio-ga-2100-1adr-nam-pin-quartz-day-cao-su-nhua-2.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "gshock/G-Shock GA-2100/dong-ho-casio-ga-2100-1adr-nam-pin-quartz-day-cao-su-nhua-5.jpg"
+                }
+            ],
+            "brand": 2,
+            "status": true
+        },
+        {
+            "id": 11,
+            "name": "Casio G-Shock DW-5600E-1VDF",
+            "price": 3169000,
+            "description": " Đồng hồ nam Casio MTP-1374L-1AVDF được làm từ chất liệu cao cấp, với dây da thật màu đen được thiết kế vân nổi bật. Mặt đồng hồ có màu đen trang nhã, kết hợp với viền đen bao quanh và chữ số vạch lớn rõ nét. Ngoài ra, đồng hồ còn tích hợp chức năng lịch ngày, tiện lợi cho người sử dụng.",
+            "images": [
+                {
+                    "id": 1,
+                    "name": "gshock/G-Shock DW-5600E/casio-g-shock-DW-5600E-1VDF.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "gshock/G-Shock DW-5600E/dong-ho-casio-dw-5600e-1vdf-nam-quartz-day-cao-su-nhua-05-2023-14.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "gshock/G-Shock DW-5600E/dong-ho-casio-g-shock-DW-5600E-1VDF-2.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "gshock/G-Shock DW-5600E/dong-ho-casio-g-shock-DW-5600E-1VDF-3.jpg"
+                }
+            ],
+            "brand": 2,
+            "status": true
+        },
+        {
+            "id": 12,
+            "name": "Seiko SNZG15K1",
+            "price": 5312000,
+            "description": " Đồng hồ nam Casio MTP-1374L-1AVDF được làm từ chất liệu cao cấp, với dây da thật màu đen được thiết kế vân nổi bật. Mặt đồng hồ có màu đen trang nhã, kết hợp với viền đen bao quanh và chữ số vạch lớn rõ nét. Ngoài ra, đồng hồ còn tích hợp chức năng lịch ngày, tiện lợi cho người sử dụng.",
+            "images": [
+                {
+                    "id": 1,
+                    "name": "seiko/seiko-SNZG15K1/seiko-SNZG15K1.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "seiko/seiko-SNZG15K1/dong-ho-seiko-5-snzg15k1-nam-co-tu-dong-day-vai-nato-8.png"
+                },
+                {
+                    "id": 3,
+                    "name": "seiko/seiko-SNZG15K1/dong-ho-seiko-5-snzg15k1-nam-co-tu-dong-day-vai-nato-10.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "seiko/seiko-SNZG15K1/dong-ho-seiko-5-snzg15k1-nam-co-tu-dong-day-vai-nato-13.jpg"
+                }
+            ],
+            "brand": 3,
+            "status": true
+        },
+        {
+            "id": 13,
+            "name": "Seiko SNZG11K1",
+            "price": 5312000,
+            "description": " Đồng hồ nam Casio MTP-1374L-1AVDF được làm từ chất liệu cao cấp, với dây da thật màu đen được thiết kế vân nổi bật. Mặt đồng hồ có màu đen trang nhã, kết hợp với viền đen bao quanh và chữ số vạch lớn rõ nét. Ngoài ra, đồng hồ còn tích hợp chức năng lịch ngày, tiện lợi cho người sử dụng.",
+            "images": [
+                {
+                    "id": 1,
+                    "name": "seiko/Seiko SNZG11K1/seiko-SNZG11K1.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "seiko/Seiko SNZG11K1/dong-ho-seiko-5-snzg11k1-nam-co-tu-dong-day-vai-nato-4.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "seiko/Seiko SNZG11K1/ZpOI98yB-dong-ho-seiko-5-snzg11k1-nam-co-tu-dong-day-vai-nato-13.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "seiko/Seiko SNZG11K1/zs5w3vAl-dong-ho-seiko-5-snzg11k1-nam-co-tu-dong-day-vai-nato-11.jpg"
+                }
+            ],
+            "brand": 3,
+            "status": true
+        },
+        {
+            "id": 14,
+            "name": "Seiko SRPD83K1",
+            "price": 5736000,
+            "description": " Đồng hồ nam Casio MTP-1374L-1AVDF được làm từ chất liệu cao cấp, với dây da thật màu đen được thiết kế vân nổi bật. Mặt đồng hồ có màu đen trang nhã, kết hợp với viền đen bao quanh và chữ số vạch lớn rõ nét. Ngoài ra, đồng hồ còn tích hợp chức năng lịch ngày, tiện lợi cho người sử dụng.",
+            "images": [
+                {
+                    "id": 1,
+                    "name": "seiko/Seiko SRPD83K1/seiko-5-SRPD83K1.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "seiko/Seiko SRPD83K1/dong-ho-seiko-5-sports-srpd83k1-nam-co-tu-dong-6.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "seiko/Seiko SRPD83K1/dong-ho-seiko-5-sports-srpd83k1-nam-co-tu-dong-16.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "seiko/Seiko SRPD83K1/dong-ho-seiko-5-sports-srpd83k1-nam-co-tu-dong-17.jpg"
+                }
+            ],
+            "brand": 3,
+            "status": true
+        },
+        {
+            "id": 15,
+            "name": "Seiko SRPD67K1",
+            "price": 1506000,
+            "description": " Đồng hồ nam Casio MTP-1374L-1AVDF được làm từ chất liệu cao cấp, với dây da thật màu đen được thiết kế vân nổi bật. Mặt đồng hồ có màu đen trang nhã, kết hợp với viền đen bao quanh và chữ số vạch lớn rõ nét. Ngoài ra, đồng hồ còn tích hợp chức năng lịch ngày, tiện lợi cho người sử dụng.",
+            "images": [
+                {
+                    "id": 1,
+                    "name": "seiko/Seiko SRPD67K1/seiko-5-SRPD67K1.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "seiko/Seiko SRPD67K1/dong-ho-seiko-5-sports-srpd67k1-nam-co-tu-dong-9.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "seiko/Seiko SRPD67K1/dong-ho-seiko-5-sports-srpd67k1-nam-co-tu-dong-11.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "seiko/Seiko SRPD67K1/ootzAZJX-dong-ho-seiko-5-sports-srpd67k1-nam-co-tu-dong-10.jpg"
+                }
+            ],
+            "brand": 3,
+            "status": true
+        },
+        {
+            "id": 16,
+            "name": "Tissot T006.428.11.038.01",
+            "price": 17535000,
+            "description": " Đồng hồ nam Casio MTP-1374L-1AVDF được làm từ chất liệu cao cấp, với dây da thật màu đen được thiết kế vân nổi bật. Mặt đồng hồ có màu đen trang nhã, kết hợp với viền đen bao quanh và chữ số vạch lớn rõ nét. Ngoài ra, đồng hồ còn tích hợp chức năng lịch ngày, tiện lợi cho người sử dụng.",
+            "images": [
+                {
+                    "id": 1,
+                    "name": "tissot/Tissot Nam T006.428.11.038.01/T006-428-11-038-01-1.jpg"
+                }
+            ],
+            "brand": 4,
+            "status": true
+        },
+        {
+            "id": 17,
+            "name": "Tissot T006.428.22.038.02",
+            "price": 20573000,
+            "description": " Đồng hồ nam Casio MTP-1374L-1AVDF được làm từ chất liệu cao cấp, với dây da thật màu đen được thiết kế vân nổi bật. Mặt đồng hồ có màu đen trang nhã, kết hợp với viền đen bao quanh và chữ số vạch lớn rõ nét. Ngoài ra, đồng hồ còn tích hợp chức năng lịch ngày, tiện lợi cho người sử dụng.",
+            "images": [
+                {
+                    "id": 1,
+                    "name": "tissot/Tissot Nam T006.428.22.038.02/tissot-T006-428-22-038-02-1.jpg"
+                }
+            ],
+            "brand": 4,
+            "status": true
+        },
+        {
+            "id": 18,
+            "name": "Tissot T035.617.16.031.00",
+            "price": 10920000,
+            "description": " Đồng hồ nam Casio MTP-1374L-1AVDF được làm từ chất liệu cao cấp, với dây da thật màu đen được thiết kế vân nổi bật. Mặt đồng hồ có màu đen trang nhã, kết hợp với viền đen bao quanh và chữ số vạch lớn rõ nét. Ngoài ra, đồng hồ còn tích hợp chức năng lịch ngày, tiện lợi cho người sử dụng.",
+            "images": [
+                {
+                    "id": 1,
+                    "name": "tissot/Tissot Nam T035.617.16.031.00/dong-ho-tissot-t035-617-16-031-00-nam-pin-day-da-a-1.jpg"
+                }
+            ],
+            "brand": 4,
+            "status": true
+        },
+        {
+            "id": 19,
+            "name": "Tissot T055.417.16.038.00",
+            "price": 11273000,
+            "description": " Đồng hồ nam Casio MTP-1374L-1AVDF được làm từ chất liệu cao cấp, với dây da thật màu đen được thiết kế vân nổi bật. Mặt đồng hồ có màu đen trang nhã, kết hợp với viền đen bao quanh và chữ số vạch lớn rõ nét. Ngoài ra, đồng hồ còn tích hợp chức năng lịch ngày, tiện lợi cho người sử dụng.",
+            "images": [
+                {
+                    "id": 1,
+                    "name": "tissot/Tissot Nam T055.417.16.038.00/dong-ho-tissot-t055-417-16-038-00-nam-pin-day-da-a-1.jpg"
+                }
+            ],
+            "brand": 4,
+            "status": true
+        },
+        {
+            "id": 20,
+            "name": "Bentley Nam BL1694-10WNI-M",
+            "price": 4919000,
+            "description": " Đồng hồ nam Casio MTP-1374L-1AVDF được làm từ chất liệu cao cấp, với dây da thật màu đen được thiết kế vân nổi bật. Mặt đồng hồ có màu đen trang nhã, kết hợp với viền đen bao quanh và chữ số vạch lớn rõ nét. Ngoài ra, đồng hồ còn tích hợp chức năng lịch ngày, tiện lợi cho người sử dụng.",
+            "images": [
+                {
+                    "id": 1,
+                    "name": "bently/bentley-BL1694-10WNI-M.jpg"
+                }
+            ],
+            "brand": 5,
+            "status": true
+        },
+        {
+            "id": 21,
+            "name": "Bentley BL1798-20KNN-K",
+            "price": 1506000,
+            "description": " Đồng hồ nam Casio MTP-1374L-1AVDF được làm từ chất liệu cao cấp, với dây da thật màu đen được thiết kế vân nổi bật. Mặt đồng hồ có màu đen trang nhã, kết hợp với viền đen bao quanh và chữ số vạch lớn rõ nét. Ngoài ra, đồng hồ còn tích hợp chức năng lịch ngày, tiện lợi cho người sử dụng.",
+            "images": [
+                {
+                    "id": 1,
+                    "name": "bently/bentley-BL1798-20KNN-K.jpg"
+                }
+            ],
+            "brand": 5,
+            "status": true
+        },
+        {
+            "id": 22,
+            "name": "Bentley BL1694-20WBI-MN",
+            "price": 4919000,
+            "description": " Đồng hồ nam Casio MTP-1374L-1AVDF được làm từ chất liệu cao cấp, với dây da thật màu đen được thiết kế vân nổi bật. Mặt đồng hồ có màu đen trang nhã, kết hợp với viền đen bao quanh và chữ số vạch lớn rõ nét. Ngoài ra, đồng hồ còn tích hợp chức năng lịch ngày, tiện lợi cho người sử dụng.",
+            "images": [
+                {
+                    "id": 1,
+                    "name": "bently/bentley-BL1694-20WBI-MN.jpg"
+                }
+            ],
+            "brand": 5,
+            "status": true
+        },
+        {
+            "id": 23,
+            "name": "Bentley BL1696-10WBB",
+            "price": 1506000,
+            "description": " Đồng hồ nam Casio MTP-1374L-1AVDF được làm từ chất liệu cao cấp, với dây da thật màu đen được thiết kế vân nổi bật. Mặt đồng hồ có màu đen trang nhã, kết hợp với viền đen bao quanh và chữ số vạch lớn rõ nét. Ngoài ra, đồng hồ còn tích hợp chức năng lịch ngày, tiện lợi cho người sử dụng.",
+            "images": [
+                {
+                    "id": 1,
+                    "name": "bently/bentley-BL1696-10WBB.jpg"
+                }
+            ],
+            "brand": 5,
+            "status": true
+        }
+    ]
+}
